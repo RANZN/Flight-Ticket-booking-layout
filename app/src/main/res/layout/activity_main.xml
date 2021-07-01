@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="0.5"
-        android:background="#990088"
+        android:background="#551947"
         android:orientation="vertical">
 
 
@@ -152,7 +152,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:padding="10dp"
-                android:src="@drawable/ic_khumbu_valley_1__1_" />
+                android:src="@drawable/khumbu_valley" />
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -195,7 +195,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:padding="10dp"
-                    android:src="@drawable/ic_khumbu_valley_1__1_" />
+                    android:src="@drawable/maldives" />
 
                 <LinearLayout
                     android:layout_width="wrap_content"
@@ -207,13 +207,13 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_gravity="center"
-                        android:text="Khumbu Valley, Nepal"
+                        android:text="Maldives, South Africa"
                         android:textStyle="bold" />
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="NonStop - 5h 16m+" />
+                        android:text="NonStop - 8h 24m+" />
 
                 </LinearLayout>
             </LinearLayout>
